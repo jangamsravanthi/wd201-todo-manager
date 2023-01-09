@@ -1,6 +1,11 @@
 body {
-  font-family: "Times New Roman", "Gill Sans MT",  "Trebuchet MS", sans-serif;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
 }
-.todoItem:hover .trashIcone {
+
+.Todo-Item:hover .trash-icon {
   display: block;
+}
+h5 {
+  display: inline;
 }
