@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "root",
-    "database": "wd-todo-dev",
+    "database": "todo_tb",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
